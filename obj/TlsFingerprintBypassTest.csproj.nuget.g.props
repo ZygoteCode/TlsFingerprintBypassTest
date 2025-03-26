@@ -10,6 +10,6 @@
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.10.1</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="C:\Users\bolog\.nuget\packages\" />
+    <SourceRoot Include="C:\Users\ZygoteCode\.nuget\packages\" />
   </ItemGroup>
 </Project>
